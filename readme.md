@@ -72,12 +72,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
-<h2Penting Untuk Di Ingat!!>
-<p>
-jangan lupa !
-1.install composer
-2.versi php dengan sql apa yang anda gunakan
-3.install passport
-bisa googling
+<h2>Penting Untuk Di Ingat!!</h2>
+<p>jangan lupa !</p>
+<p>1.install composer<br>
+2.versi php dengan sql apa yang anda gunakan<br>
+3.install passport<br>
+bisa googling<br>
 4.tes api dengan POSTMAN setelah mengaktifkannya denga php artisan serve atau langsung dari apache yang udah on.
 </p>
